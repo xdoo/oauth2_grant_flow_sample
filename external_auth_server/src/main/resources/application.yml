@@ -1,6 +1,6 @@
 security.oauth2.client:
-    clientId: acme
-    clientSecret: acmesecret
+    clientId: acme_ext
+    clientSecret: acmesecret_ext
     authorized-grant-types: refresh_token,password
     scope: openid
     
